@@ -1,0 +1,5 @@
+Aortic Stenosis HeartD
+Mitral Regurgitation HeartD
+Mitral Strenosis HeartD
+Mitral Valve Prolapse HeartD
+Normal Heart
